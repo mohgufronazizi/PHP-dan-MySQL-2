@@ -1,0 +1,8 @@
+.container, container-fluid{
+    width: 1200px;
+
+}
+
+.navbar-brand img{
+    max-height: 80px;
+}
